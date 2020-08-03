@@ -1,4 +1,3 @@
-#README
 *Good day! 
 Sorry for my google- english*
 
